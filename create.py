@@ -1,1 +1,1 @@
-print "Hello word!"
+print "Hello word v0.1!"
